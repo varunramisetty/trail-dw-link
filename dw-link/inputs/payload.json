@@ -1,0 +1,28 @@
+[
+{
+"id": 123,
+"SSN": "123456789",
+"dob": "12/01/2001",
+"address": "1 main street jacksonville FL 32258",
+"jobTitleName": "Developer",
+"firstName": "Romin",
+"lastName": "Irani",
+"prefferedFullName": "RominIrani",
+"employeeCode": "E1",
+"region": "CA",
+"phoneNumber": "408-1234567"
+},
+{
+"id": 234,
+"SSN": "234598980",
+"dob": "01/01/1981",
+"address": "2nd old st Augustine rd jacksonville FL 32256-2301",
+"jobTitleName": "Developer",
+"firstName": "Neil",
+"lastname": "Irani",
+"prefferedFullName": "Neil Irani",
+"employeeCode": "E2",
+"region": "CA",
+"phoneNumber": "408-1111111"
+}
+]
